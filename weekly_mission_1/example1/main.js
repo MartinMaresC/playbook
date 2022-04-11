@@ -27,4 +27,5 @@ const myModule = (() => {
  return exported
 })()
 
-console.log(myModule)
+console.log(myModule);
+console.log("Hola Mundo");
